@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pkl
+*.faiss
+*.pyc
+.DS_Store
+saved_cvs/
+data/
+build/
